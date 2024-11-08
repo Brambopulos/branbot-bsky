@@ -77,8 +77,8 @@ Deploy with:
 ```bash
 gcloud app deploy
 ```
+### Project Structure
 ```plaintext
-Project Structure
 ├── main.py               # Main Flask application with Twilio and Firebase integration
 ├── requirements.txt      # Project dependencies
 ├── templates/
